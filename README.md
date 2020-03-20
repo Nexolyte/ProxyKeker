@@ -23,3 +23,10 @@ The final step. Running ProxyKeker.
 2. Type in ``py proxykeker.py``
 
 The program should run and you will be able to use it
+
+# Donations
+```
+BTC: 19mQK1sDUS9eqogtv3cw8PjvG4jgXxVchN
+BCH: bitcoincash:qpt0w08kcjmf45p2zfhcmr878vg60j5lnuudu9u7w0
+ETH: 0x327977Ba63D138107423691f1607b1e646518d06
+```
